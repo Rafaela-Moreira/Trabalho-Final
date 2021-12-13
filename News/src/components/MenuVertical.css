@@ -1,0 +1,21 @@
+.menu-vertical-container {
+	grid-area: menuvertical;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	border-right: var(--border-menu);
+  width: 300px;
+  background-color: rgba(64, 61, 57, 1);
+  height: 800px;
+  margin-left: 65px;
+  margin-top: 35px;
+}
+
+.text-item {
+	font-weight: 800;
+	text-transform: uppercase;
+	font-size: 5rem;
+  color: rgba(204, 197, 185, 1);
+  padding: 10px;
+}

@@ -1,0 +1,16 @@
+.details-container {
+	padding: 5rem;
+  margin-left: 350px;
+  width: 600px;
+}
+
+.text {
+	margin: 5rem auto;
+  font-size: 2.5rem;
+
+}
+
+.titleA{
+  margin-top: 50px;
+  font-size: 3.5rem;
+}
